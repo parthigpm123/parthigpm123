@@ -1,3 +1,4 @@
+![logo](https://github.com/parthigpm123/parthigpm123/blob/main/Blue%20%26%20Black%20Modern%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Parthiban</h1>
 <h3 align="center">A passionate python developer</h3>
 
