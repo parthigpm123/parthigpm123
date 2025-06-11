@@ -9,11 +9,9 @@
 
 - 📫 How to reach me **Parthigpm123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QXz6wsa5koSkGNxCXc8p8NFXuIrR9WU_/view?usp=sharing](https://drive.google.com/file/d/1QXz6wsa5koSkGNxCXc8p8NFXuIrR9WU_/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/parthibanm03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/parthibanm03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/parthibanm03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parthibanm03/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/www.youtube.com/@update_yourself1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@update_yourself1" height="30" width="40" /></a>
 </p>
 
