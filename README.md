@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django in Udemy**
 
-- 👨‍💻 All of my projects are available at [https://parthiban-portfolio-web.netlify.app/](https://parthiban-portfolio-web.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://parthiban-portfolio-web.netlify.app/](https://parthiban-portfolio-2000.netlify.app/)
 
 - 💬 Ask me about **Python, Django ,Mysql**
 
